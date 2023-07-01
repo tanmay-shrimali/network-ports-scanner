@@ -59,7 +59,9 @@ python network_port_scanner.py example.com 80,443 -t tcp -s -b
 - `-o` or `--os`: Optional. Perform OS fingerprinting.
 - `-v` or `--vulnerability`: Optional. Perform vulnerability scanning.
 
+## Credits
 
+This project was created by [Tanmay Shrimali](https://github.com/tanmay-shrimali) and it is only for educational purposes.
 
 ## Contributing
 
